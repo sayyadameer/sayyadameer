@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 📫 How to reach me **https://www.linkedin.com/in/ameer-sayyad-98554a251/**
+- 📫 How to reach me **sayyadameer11@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
