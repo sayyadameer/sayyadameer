@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sayyad Ameer</h1>
 <h3 align="center">I'm interested in web development and competetive Programming.</h3>
 
-- 🔭 I’m currently working on [Banking Management System](https://github.com/sayyadameer/Banking-management-System.git)
+- 🔭 I’m currently working on [Smart Attendance System](https://github.com/sayyadameer/Smart_Attendance.git)
 
 - 🌱 I’m currently learning **DSA**
 
