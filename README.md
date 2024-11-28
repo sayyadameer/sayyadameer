@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/ameer-sayyad-98554a251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ameer-sayyad-98554a251/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sayyadameer11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sayyadameer11" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/user/sayyadafq1w/" target="blank"><img align="center" src="https://tse3.mm.bing.net/th?id=OIP.CRZTGhplvD-5HbZm2bnkogAAAA&pid=Api&P=0&h=180" alt="sayyadameer11" height="30" width="30" /></a>
+<a href="https://www.geeksforgeeks.org/user/sayyadameer/" target="blank"><img align="center" src="https://tse3.mm.bing.net/th?id=OIP.CRZTGhplvD-5HbZm2bnkogAAAA&pid=Api&P=0&h=180" alt="sayyadameer11" height="30" width="30" /></a>
 <a href="https://codolio.com/profile/be0iQL0E" target="blank"><img align="center" src="https://codolio.com/codolio_assets/codolio.svg" alt="sayyadameer11" height="30" width="30" /></a>
 </p>
 
